@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/tendermint/go-amino"
+	"github.com/kava-labs/go-amino"
 )
 
 func TestNilSliceEmptySlice(t *testing.T) {

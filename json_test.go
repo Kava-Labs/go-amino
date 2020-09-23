@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/tendermint/go-amino"
+	"github.com/kava-labs/go-amino"
 )
 
 func registerTransports(cdc *amino.Codec) {

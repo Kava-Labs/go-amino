@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	amino "github.com/tendermint/go-amino"
+	amino "github.com/kava-labs/go-amino"
 )
 
 type DCFoo1 struct{ a string }

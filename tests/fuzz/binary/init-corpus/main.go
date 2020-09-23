@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/tendermint/go-amino"
-	"github.com/tendermint/go-amino/tests"
+	"github.com/kava-labs/go-amino"
+	"github.com/kava-labs/go-amino/tests"
 )
 
 func main() {
